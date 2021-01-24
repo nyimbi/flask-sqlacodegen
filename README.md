@@ -23,7 +23,7 @@ pip install flask-sqlacodegen
 
 Without pip:
 ```
-git clone https://github.com/ksindi/flask-sqlacodegen.git
+git clone https://github.com/nyimbi/flask-sqlacodegen.git
 cd flask-sqlacodegen/
 python setup.py install
 ```
