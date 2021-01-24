@@ -1,10 +1,11 @@
 # flask-sqlacodegen
 
-GitHub page: [flask-sqlacodegen](https://github.com/ksindi/flask-sqlacodegen) 
+GitHub page: [flask-sqlacodegen](https://github.com/nyimbi/flask-sqlacodegen) 
 
 Fork of [sqlacodegen](https://pypi.python.org/pypi/sqlacodegen) by Alex Gronholm. Based off of version 1.1.6.
 
 What's different:
+Optimized to create pages for Flask-appbuilder
 
 * Support for Flask-SQLAlchemy syntax using `--flask` option.
 * Defaults to generating backrefs in relationships. `--nobackref` still included as option in case backrefs are not wanted. 
